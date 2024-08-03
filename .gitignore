@@ -1,0 +1,6 @@
+venv/
+venv_latest/
+qdrant_data/
+.env
+*.mp3
+*.jpg
